@@ -129,5 +129,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Frontend shares the same port which will allow it to interact with the API
 CORS_ORIGIN_WHITELIST = [
-  'http://localhost:3000'
+  'https://localhost:3000'
 ]
